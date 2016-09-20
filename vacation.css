@@ -1,0 +1,82 @@
+h1 { text-align:center;
+      font-size:65px;
+      color:white;
+      background-color: green;
+      padding-top: 10px;
+      padding-top: 10px;
+      font-family:sans-serif;
+
+}
+title {
+  background-color: transparent;
+}
+
+h2 { text-align:center;
+      font-size:40px;
+      color: #ff0000;
+      font-family: Arial Black;
+}
+
+p { text-align:left;
+border:solid;
+background-color:#b0e0e6 ;
+font-size: 20px;
+font-style: fantasy;
+padding-left: 5px;
+padding-top: 10px;
+padding-bottom:
+ 10px;
+ padding-right: 1px;
+}
+.padding {
+  margin: 20px;
+}
+
+
+img {
+	width:350px;
+	height:220px;
+
+}
+a:hover{
+  color :orange;
+  font-weight: bolder;
+  font-size:30px;
+
+}
+table, td {
+
+	border: 2px #70b8ff solid;
+  text-align:center;
+  font-weight:bolder;
+  color:green;
+  font-size: 20px;
+  margin:auto;
+}
+
+body {text-align:center;
+background-color: #99ccff;
+background-image:url(http://maketourtrip.com/img/slide/Travelling.jpg);
+background-size: 100%;
+
+}
+
+footer
+a:hover{
+color :orange;
+font-weight: bolder;
+font-size:30px;
+
+}
+
+.sentence {
+  font-size:15px;
+  padding-left: 10px;
+  padding-right: 50px;
+}
+.thingstodo {
+  font-size:20px;
+  color:red;
+  padding-left: 10px;
+  padding-right: 50px;
+}
